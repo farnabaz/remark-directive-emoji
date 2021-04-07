@@ -1,0 +1,36 @@
+{
+  "name": "remark-directive-emoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "hastscript": "6.0.0",
+    "react": "16.14.0",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "rehype-format": "3.1.0",
+    "rehype-stringify": "8.0.0",
+    "remark": "13.0.0",
+    "remark-directive": "1.0.1",
+    "remark-emoji": "2.2.0",
+    "remark-parse": "9.0.0",
+    "remark-rehype": "8.0.0",
+    "unified": "9.2.1",
+    "unist-util-visit": "2.0.3"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
